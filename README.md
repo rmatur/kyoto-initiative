@@ -137,6 +137,10 @@ This also ensures that all groups are given the same space.
 * **Spokeperson:** Kenta Kiuchi <kenta.kiuchi@aei.mpg.de>
 * **URL:** https://doi.org/10.1103/zmdc-xkcm
 
+### SpEC
+
+* **Spokeperson:** Francois Foucart <francois.foucart@unh.edu>
+* **URL:** https://www.black-holes.org/for-researchers/spec
 
 ## Policies
 

@@ -142,6 +142,12 @@ This also ensures that all groups are given the same space.
 * **Spokeperson:** Francois Foucart <francois.foucart@unh.edu>
 * **URL:** https://www.black-holes.org/for-researchers/spec
 
+### BAM
+
+* **Spokeperson:** Tim Dietrich <tim.dietrich@uni-potsdam.de>
+* **URL:** https://journals.aps.org/prd/abstract/10.1103/PhysRevD.84.044012
+
+
 ## Policies
 
 **Project coordinator:** David Radice <dur566@psu.edu>

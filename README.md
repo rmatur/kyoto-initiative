@@ -159,6 +159,12 @@ This also ensures that all groups are given the same space.
 * **URL:** https://iopscience.iop.org/article/10.1088/0264-9381/32/17/175009
 * **URL:** https://einsteintoolkit.org/thornguide/GRHayLET/GRHayLHD/documentation.html
 
+### IllinoisGRMHD/GRHayLHD
+
+* **Spokesperson:** Luis Felipe Longo Micchi <luis.felipe.longo.micchi@uni-jena.de> 
+* **URL:** https://computationalrelativity.github.io/grathenacode/
+
+
 ## Policies
 
 **Project coordinator:** David Radice <dur566@psu.edu>

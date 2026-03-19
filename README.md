@@ -198,6 +198,11 @@ This also ensures that all groups are given the same space.
 * **Spokesperson:** Francois Foucart <francois.foucart@unh.edu>
 * **URL:** https://www.black-holes.org/for-researchers/spec
 
+### WhiskyTHC
+
+* **Spokesperson:** Rahime Matur <r.matur@soton.ac.uk>
+* **URL:** https://personal.science.psu.edu/dur566/whiskythc.html
+
 
 ## How to Participate
 
